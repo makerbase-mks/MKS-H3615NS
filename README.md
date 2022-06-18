@@ -11,12 +11,8 @@
 |Motherboard|MKS H3615NS|
 |------------|--------------------|
 |Input voltage range|  DC9V～36.0V |
-|Maximum long-term load current| 12A(without heat sink)
-15A (simple heat sink)
-20A(thick large heat sink) |
-|Output Power| 12V 180W
-24V 360W
-36V 540W |
+|Maximum long-term load current| 12A(without heat sink) 15A (simple heat sink) 20A(thick large heat sink) |
+|Output Power| 12V(180W) 24V(360W) 36V(540W) |
 |Peak current| 110A |
 |5V power supply maximum output current| 500mA |
 |Control signal high level voltage(VHI)| 2.0V～5.5V |
