@@ -23,4 +23,4 @@
 |PWM minimum effective pulse width |200ns|
 |Operating temperature| -25℃～85℃ |
 ## How to buy
-[Aliexpress link](https://www.aliexpress.com/item/1005003340856835.html)
+[Aliexpress link](https://www.aliexpress.com/item/1005004413242104.html)
