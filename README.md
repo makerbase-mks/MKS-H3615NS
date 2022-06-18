@@ -21,6 +21,7 @@
 |PWM range supported| 0~100% |
 |Support PWM frequency range| 0~10kHZ |
 |PWM minimum effective pulse width |200ns|
+|Size| 55mm×55mm×1.6mm |
 |Operating temperature| -25℃～85℃ |
 ## How to buy
 [Aliexpress link](https://www.aliexpress.com/item/1005004413242104.html)
